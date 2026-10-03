@@ -1,5 +1,4 @@
-#bagunça---------------------------------------------
-
+# -*- coding: utf-8 -*-
 
 
 escolhas=[]
@@ -67,13 +66,13 @@ def escolha1_0_4():
           print "     |[[[ / [[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[[|"                                                            
           print "     |[ \/ [[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[|"                                                                 
           print "     |[[ \ [[[[[[[[[[[[[[[[[[[] \ [[[[[[[[[Grrrrr[[] \ [[[[[[[[[[[[[[[[[[[[[[|"                                              
-          print "     |_______________________________(._.)__(Ò_Ó)_______________________{O.o}|"
+          print "     |_______________________________(._.)__(Ã’_Ã“)_______________________{O.o}|"
           print "     |                           treme/|\  \[_|_]\                 corre\[S]/|"
           print "     |___________________________treme/_\____/_\_________________________/_\_|"
           print "     |                                                                       |"
-          print "     | Você conseguiu salvar Trevor mas agora deixou Yukki furioso e ele está|"
-          print "     | vindo com tudo para cima de você seu corpo,está tremendo mas não tem  |"
-          print "     | mais jeito você vai ter que lutar...                                  |"
+          print "     | VocÃª conseguiu salvar Trevor mas agora deixou Yukki furioso e ele estÃ¡|"
+          print "     | vindo com tudo para cima de vocÃª seu corpo,estÃ¡ tremendo mas nÃ£o tem  |"
+          print "     | mais jeito vocÃª vai ter que lutar...                                  |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER quando estiver pronto:")
           for x in range(0,100):
@@ -86,13 +85,13 @@ def escolha1_0_4():
           print "     |[[[ / [[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[[|"                                                            
           print "     |[ \/ [[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[|"                                                                 
           print "     |[[ \ [[[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[|"                                              
-          print "     |_________________(._.)________________(Ò_Ó)____________________________|"
+          print "     |_________________(._.)________________(Ã’_Ã“)____________________________|"
           print "     |                  /|\                /[_|_]\                           |"
           print "     |__________________/_\__________________/_\_____________________________|"
           print "     |                                                                       |"
           print "     |    ____________     _________________     _______________________     |"
           print "     |   |            |   |                 |   |                       |    |"
-          print "     |   | 1-DESVIAR  |   | 2-ATAQUE RÁPIDO |   | 3-PAGAR DE DURÃO      |    |"
+          print "     |   | 1-DESVIAR  |   | 2-ATAQUE RÃPIDO |   | 3-PAGAR DE DURÃƒO      |    |"
           print "     |   |            |   |                 |   |                       |    |"
           print "     |   | Custo: 0R  |   | Custo: -5R/-3R  |   | Custo: 0R/+ 1R        |    |"
           print "     |   | Dano: 0    |   | Dano: 5/3       |   | Dano: 0/-1            |    |"       
@@ -109,7 +108,7 @@ def escolhas4_1_1():
              passe = 1
           while passe == 0:
                print "     |                                                                      |"
-               print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+               print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                print "     |                                                                      |"
                escolha=input("     |Digite o numero da sua escolha :")
                if escolha >= 1 and escolha <= 3:
@@ -126,7 +125,7 @@ def escolhas4_1_1():
               print "     |[[[ / [[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[[|"                                                            
               print "     |[ \/ [[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[|"                                                                 
               print "     |[[ \ [[[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[|"                                              
-              print "     |_________________________(._.)__-_____(Ò_Ó)____________________________|"
+              print "     |_________________________(._.)__-_____(Ã’_Ã“)____________________________|"
               print "     |                   Desvia /|\   -   [-[_|_]\                           |"
               print "     |__________________________/_\___-__Soco/_\_____________________________|"
               print "     |                                                                       |"
@@ -142,13 +141,13 @@ def escolhas4_1_1():
               print "     |[[[ / [[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[[|"                                                            
               print "     |[ \/ [[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[|"                                                                 
               print "     |[[ \ [[[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[|"                                              
-              print "     |_________________(._.)________________(Ò_Ó)____________________________|"
+              print "     |_________________(._.)________________(Ã’_Ã“)____________________________|"
               print "     |                  /|\                /[_|_]\                           |"
               print "     |__________________/_\__________________/_\_____________________________|"
               print "     |                                                                       |"
               print "     |    ____________     _________________     _______________________     |"
               print "     |   |            |   |                 |   |                       |    |"
-              print "     |   | 1-DESVIAR  |   | 2-ATAQUE RÁPIDO |   | 3-PAGAR DE DURÃO      |    |"
+              print "     |   | 1-DESVIAR  |   | 2-ATAQUE RÃPIDO |   | 3-PAGAR DE DURÃƒO      |    |"
               print "     |   |            |   |                 |   |                       |    |"
               print "     |   | Custo: 0R  |   | Custo: -5R/-3R  |   | Custo: 0R/+ 1R        |    |"
               print "     |   | Dano: 0    |   | Dano: 5/3       |   | Dano: 0/-1            |    |"       
@@ -162,7 +161,7 @@ def escolhas4_1_1():
                        passe = 1
               while passe == 0:
                    print "     |                                                                      |"
-                   print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+                   print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                    print "     |                                                                      |"
                    escolha1_1=input("     |Digite o numero da sua escolha :")
                    if escolha1_1 >= 1 and escolha1_1 <= 3:
@@ -181,7 +180,7 @@ def escolhas4_1_1():
                   print "     |[[[ / [[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[[|"                                                            
                   print "     |[ \/ [[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[|"                                                                 
                   print "     |[[ \ [[[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[|"                                              
-                  print "     |___________________-30 -30(._.)_____(Ò_Ó)_-290_________________________|"
+                  print "     |___________________-30 -30(._.)_____(Ã’_Ã“)_-290_________________________|"
                   print "     |                   Desvia  /|\Soco[-[_|_]\                             |"
                   print "     |___________________________/_\__Soco_/_\_______________________________|"
                   print "     |                                                                       |"
@@ -199,13 +198,13 @@ def escolhas4_1_1():
                   print "     |[[[ / [[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[[|"                                                            
                   print "     |[ \/ [[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[[|"                                                                 
                   print "     |[[ \ [[[[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[] \ [[[[[[[[[[[[[[[[[[[[[[|"                                              
-                  print "     |_________________(._.)________________(Ò_Ó)____________________________|"
+                  print "     |_________________(._.)________________(Ã’_Ã“)____________________________|"
                   print "     |                  /|\                /[_|_]\                           |"
                   print "     |__________________/_\__________________/_\_____________________________|"
                   print "     |                                                                       |"
                   print "     |    ____________     _________________     _______________________     |"
                   print "     |   |            |   |                 |   |                       |    |"
-                  print "     |   | 1-DESVIAR  |   | 2-ATAQUE RÁPIDO |   | 3-PAGAR DE DURÃO      |    |"
+                  print "     |   | 1-DESVIAR  |   | 2-ATAQUE RÃPIDO |   | 3-PAGAR DE DURÃƒO      |    |"
                   print "     |   |            |   |                 |   |                       |    |"
                   print "     |   | Custo: 0R  |   | Custo: -5R/-3R  |   | Custo: 0R/+ 1R        |    |"
                   print "     |   | Dano: 0    |   | Dano: 5/3       |   | Dano: 0/-1            |    |"       
@@ -219,7 +218,7 @@ def escolhas4_1_1():
                            passe = 1
                   while passe == 0:
                        print "     |                                                                      |"
-                       print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+                       print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                        print "     |                                                                      |"
                        escolha1_2=input("     |Digite o numero da sua escolha :")
                        if escolha1_2 >= 1 and escolha1_2 <= 3:
@@ -247,7 +246,7 @@ def personagem ():
     print "     |  ____________________   ____________________   ____________________  |"                                          
     print "     | |                    | |                    | |                    | |"     
     print "     | | 1-Kennouki Kotarou | | 2-Yukki Blayer     | | 3-Trevor Tsonoda   | |"                                           
-    print "     | |            |Atleta|| |          |Valentão|| |             |Otaku|| |"
+    print "     | |            |Atleta|| |          |ValentÃ£o|| |             |Otaku|| |"
     print "     | |     (._.)          | |     ('_')          | |    {O.O}           | |"
     print "     | |      /|\           | |    /[_|_]\         | |    /[S]\           | |"
     print "     | |      / \      ___  | |      / \      ___  | |     / \       ___  | |"           
@@ -269,7 +268,7 @@ def personagem ():
     print "     | |-|Vida       -|250| | |-|Vida       -|500| | |-|Vida       -|250| | |"                                                         
     print "     | |____________________| |____________________| |____________________| |"                                                                  
     print "     |                                                                      |"
-    escolhapers=input("     |Digite o numero do personagem que você quer:")
+    escolhapers=input("     |Digite o numero do personagem que vocÃª quer:")
     passe=0
     if escolhapers == 1:
         escolhas.append(0)
@@ -286,9 +285,9 @@ def personagem ():
     else:
        while passe == 0:
                print "     |                                                                      |"
-               print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+               print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                print "     |                                                                      |"
-               escolhapers=input("     |Digite o numero do personagem que você quer:")
+               escolhapers=input("     |Digite o numero do personagem que vocÃª quer:")
                if escolhapers >= 1 and escolhaspers <= 6:
                    passe = 1
     print "     |----------------------------------------------------------------------|"
@@ -320,9 +319,9 @@ def historia4 ():
           print "     |        \|\                                                            |"
           print "     |________/ \____________________________________________________________|"
           print "     |                                                                       |"
-          print "     | Você estava correndo para a escola,para seu primeiro dia de aula,pois |"
+          print "     | VocÃª estava correndo para a escola,para seu primeiro dia de aula,pois |"
           print "     | mal podia esperar para rever seus amigos e comecar a se mostrar para  |"
-          print "     | as garotas, pois afinal de contas você era o atleta da escola....     |"
+          print "     | as garotas, pois afinal de contas vocÃª era o atleta da escola....     |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
           for x in range (0,100):
@@ -348,7 +347,7 @@ def historia4 ():
           print "     |                /|\                  \[_|_]\_{O.o} help                |"
           print "     |________________/ \____________________/_\___\[S]/__help_______________|"
           print "     |                                              / \                      |"
-          print "     | No caminho você encontra Yukki Blayer o valentão da escola,batendo em |"
+          print "     | No caminho vocÃª encontra Yukki Blayer o valentÃ£o da escola,batendo em |"
           print "     | Trevor Tsonoda o nerd/otaku da sua turma, ele ja aparentava estar com |"
           print "     | dor e gritava por socorro...                                          |"
           print "     |_______________________________________________________________________|"
@@ -370,7 +369,7 @@ def historia4 ():
           else:
             while passe == 0:
                print "     |                                                                      |"
-               print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+               print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                print "     |                                                                      |"
                escolha=input("     |Digite o numero da sua escolha :")
                if escolha >= 1 and escolha <= 3:
@@ -398,9 +397,9 @@ def historia4 ():
           print "     |      /[_|_]\                                                          |"
           print "     |________/ \____________________________________________________________|"
           print "     |                                                                       |"
-          print "     | Você estava correndo para a escola,para seu primeiro dia de aula,pois |"
+          print "     | VocÃª estava correndo para a escola,para seu primeiro dia de aula,pois |"
           print "     | mal podia esperar para bater nos nerd's e comecar a se mostrar para   |"
-          print "     | as garotas, pois afinal de contas você era o valentão da escola....   |"
+          print "     | as garotas, pois afinal de contas vocÃª era o valentÃ£o da escola....   |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
           for x in range (0,100):
@@ -426,7 +425,7 @@ def historia4 ():
           print "     |                              /[_|_]\          /[S]\ treme             |"
           print "     |________________________________/_\_____________/ \__treme_____________|"
           print "     |                                                                       |"
-          print "     | No caminho você encontra Trevor Tsonoda um dos nerd's/otaku da sua    |"
+          print "     | No caminho vocÃª encontra Trevor Tsonoda um dos nerd's/otaku da sua    |"
           print "     | sala...                                                               |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
@@ -447,7 +446,7 @@ def historia4 ():
           else:
             while passe == 0:
                print "     |                                                                      |"
-               print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+               print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                print "     |                                                                      |"
                escolha=input("     |Digite o numero da sua escolha :")
                if escolha >= 1 and escolha <= 3:
@@ -475,9 +474,9 @@ def historia4 ():
           print "     |       /[S]\                                                           |"
           print "     |________/ \____________________________________________________________|"
           print "     |                                                                       |"
-          print "     | Você estava andando super lento para a escola,para seu primeiro dia   |"
-          print "     | de aula pois, nao estava nem um pouco afim de apanhar dos valentões,  |"
-          print "     | e nem de ser humilhado pelos atletas por te um físico pessímo...      |"
+          print "     | VocÃª estava andando super lento para a escola,para seu primeiro dia   |"
+          print "     | de aula pois, nao estava nem um pouco afim de apanhar dos valentÃµes,  |"
+          print "     | e nem de ser humilhado pelos atletas por te um fÃ­sico pessÃ­mo...      |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
           for x in range (0,100):
@@ -503,8 +502,8 @@ def historia4 ():
           print "     |                              /[_|_]\          /[S]\ treme             |"
           print "     |________________________________/_\_____________/ \__treme_____________|"
           print "     |                                                                       |"
-          print "     | No caminho você vê que Yukki Blayer está logo atrás de você ele é o   |"
-          print "     | valentão da sua sala e sempre quer te bater ou roubar seu dinheiro... |"
+          print "     | No caminho vocÃª vÃª que Yukki Blayer estÃ¡ logo atrÃ¡s de vocÃª ele Ã© o   |"
+          print "     | valentÃ£o da sua sala e sempre quer te bater ou roubar seu dinheiro... |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
           print "     |                                                                       |"
@@ -524,7 +523,7 @@ def historia4 ():
           else:
             while passe == 0:
                print "     |                                                                      |"
-               print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+               print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                print "     |                                                                      |"
                escolha=input("     |Digite o numero da sua escolha :")
                if escolha >= 1 and escolha <= 3:
@@ -552,8 +551,8 @@ def historia4 ():
           print "     |        /|\                                                            |"
           print "     |________/ \____________________________________________________________|"
           print "     |                                                                       |"
-          print "     | Você estava andando super lento para a escola,pois estava de ressaca  |"
-          print "     | da noite anterior,e não estava nem um pouco a fim de ficar ouvindo a  |"
+          print "     | VocÃª estava andando super lento para a escola,pois estava de ressaca  |"
+          print "     | da noite anterior,e nÃ£o estava nem um pouco a fim de ficar ouvindo a  |"
           print "     | professora e nem seus 'amigos'...                                     |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
@@ -580,15 +579,15 @@ def historia4 ():
           print "     |                                        /|\_/(Y)\                      |"
           print "     |________________________________________/_\__/_\_______________________|"
           print "     |                                                                       |"
-          print "     | No caminho você encontra uma garota que diz que agora e sua esposa    |"
-          print "     | você já logo pensa: 'Fisso merda ontem a noite'....                   |"
+          print "     | No caminho vocÃª encontra uma garota que diz que agora e sua esposa    |"
+          print "     | vocÃª jÃ¡ logo pensa: 'Fisso merda ontem a noite'....                   |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
           print "     |                                                                       |"
           print "     |---------------------------ESCOLHAS------------------------------------|"
           print "     | 1- Sair correndo;                                                     |"
-          print "     | 2- Tentar tirar informações da garota;                                |"
-          print "     | 3- Ficar em silêncio e ver onde isso vai dar.                         |"
+          print "     | 2- Tentar tirar informaÃ§Ãµes da garota;                                |"
+          print "     | 3- Ficar em silÃªncio e ver onde isso vai dar.                         |"
           print "     |_______________________________________________________________________|"
           escolha=input("     |Digite o numero da sua escolha :")
           passe=0
@@ -601,7 +600,7 @@ def historia4 ():
           else:
             while passe == 0:
                print "     |                                                                      |"
-               print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+               print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                print "     |                                                                      |"
                escolha=input("     |Digite o numero da sua escolha :")
                if escolha >= 1 and escolha <= 3:
@@ -629,9 +628,9 @@ def historia4 ():
           print "     |        /_\                                                            |"
           print "     |________/ \____________________________________________________________|"
           print "     |                                                                       |"
-          print "     | Você estava andando super lento para a escola,pensando o porque de ir |"
+          print "     | VocÃª estava andando super lento para a escola,pensando o porque de ir |"
           print "     | para a escola, pensando o porque de ter conquistar coisas, se de todo |"
-          print "     | jeito, você ira morrer... A vida a sociedade era tudo inutil...       |"
+          print "     | jeito, vocÃª ira morrer... A vida a sociedade era tudo inutil...       |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
           for x in range (0,100):
@@ -657,7 +656,7 @@ def historia4 ():
           print "     |         /|\                   /|\     \[_|_]\_{O.o} help     /|\_/(Y)\|"
           print "     |________ /_\___________________/_\_______/_\____/|\__help_____/_\__/_\_|"
           print "     |                                                / \                    |"
-          print "     | No caminho você encontra metade das pessoas da sua sala, estavam      |"
+          print "     | No caminho vocÃª encontra metade das pessoas da sua sala, estavam      |"
           print "     | agindo do mesmo jeito de sempre como retardados...                    |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
@@ -678,7 +677,7 @@ def historia4 ():
           else:
             while passe == 0:
                print "     |                                                                      |"
-               print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+               print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                print "     |                                                                      |"
                escolha=input("     |Digite o numero da sua escolha :")
                if escolha >= 1 and escolha <= 3:
@@ -706,10 +705,10 @@ def historia4 ():
           print "     |       /(|)\                                                           |"
           print "     |________/ \____________________________________________________________|"
           print "     |                                                                       |"
-          print "     | Você estava andando super lento para a escola,porque nao conseguia ir |"
-          print "     | mais rápido,seu físico nao deixava, você ja tava indo preparado pra   |"
+          print "     | VocÃª estava andando super lento para a escola,porque nao conseguia ir |"
+          print "     | mais rÃ¡pido,seu fÃ­sico nao deixava, vocÃª ja tava indo preparado pra   |"
           print "     | ouvir as tormentas dos seus colegas de classe ele pegavam muito no    |"
-          print "     | seu pé...                                                             |"
+          print "     | seu pÃ©...                                                             |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
           for x in range (0,100):
@@ -735,16 +734,16 @@ def historia4 ():
           print "     |          /|\        /|\       /|\     \[_|_]\_{O.o} help     /|\_/(Y)\|"
           print "     |__________/_\________/_\_______/_\_______/_\____/|\__help_____/_\__/_\_|"
           print "     |                                                / \                    |"
-          print "     | No caminho você encontra metade das pessoas da sua classe é olha só,  |"
-          print "     | você estava com sorte o valentão e o atleta ja estavam atormentando   |"
-          print "     | o Trevor oque significava que se você passase despercebido não iam    |"
+          print "     | No caminho vocÃª encontra metade das pessoas da sua classe Ã© olha sÃ³,  |"
+          print "     | vocÃª estava com sorte o valentÃ£o e o atleta ja estavam atormentando   |"
+          print "     | o Trevor oque significava que se vocÃª passase despercebido nÃ£o iam    |"
           print "     | te atormentar no caminho pra escola...                                |"
           print "     |_______________________________________________________________________|"
           a=raw_input("     |Aperte ENTER para continuar :")
           print "     |                                                                       |"
           print "     |---------------------------ESCOLHAS------------------------------------|"
           print "     | 1- Sair correndo;                                                     |"
-          print "     | 2- Se esconder até irem embora;                                       |"
+          print "     | 2- Se esconder atÃ© irem embora;                                       |"
           print "     | 3- Tentar ajudar o Trevor.                                            |"
           print "     |_______________________________________________________________________|"
           escolha=input("     |Digite o numero da sua escolha :")
@@ -758,7 +757,7 @@ def historia4 ():
           else:
             while passe == 0:
                print "     |                                                                      |"
-               print "     |---------------------- FAÇA UMA ESCOLHA VÁLIDA -----------------------|"
+               print "     |---------------------- FAÃ‡A UMA ESCOLHA VÃLIDA -----------------------|"
                print "     |                                                                      |"
                escolha=input("     |Digite o numero da sua escolha :")
                if escolha >= 1 and escolha <= 3:
@@ -823,8 +822,8 @@ def  inicio ():
     elif escolha > 5 or escolha < 1:
         while passou == 0:
             print "     |                                                                      |"
-            print "     |DIGITE UMA OPÇÃO VALIDA!                                              |"
-            escolha=input("     | Digite o número da história que deseja jogar:")
+            print "     |DIGITE UMA OPÃ‡ÃƒO VALIDA!                                              |"
+            escolha=input("     | Digite o nÃºmero da histÃ³ria que deseja jogar:")
             if escolha <= 5:
                 if escolha >= 1:
                     passou = 1
